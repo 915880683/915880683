@@ -1,0 +1,5 @@
+- 👋 Hi, I’m LvChenZhi
+- 👀 I’m interested in PHP JavaScript
+- 🌱 I’m currently learning VUE+TS
+- 💞️ I’m looking to collaborate on Smart education services
+- 📫 How to reach me CoderLv@88.com
